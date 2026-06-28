@@ -1,0 +1,1 @@
+this script audits the system disk usage and memory usuage to make sure the current available space isnt too small, the system report file is where the reports are sent to and shows if the disk usage threshold has been exceeded or not 
